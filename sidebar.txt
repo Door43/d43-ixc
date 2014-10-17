@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ixc:home|Door43 (ixc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ixc|d43-ixc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ixc/archive/master.zip|d43-ixc.zip]]
+
+**Recent Changes**
+{{changes>ns = ixc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ixc|Ethnologue data]]
+
